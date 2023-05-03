@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey There! I am Aniket. 👋
+### I am a final Year Computer Science Undergraduate.
 <!--
 **aniket-cse/aniket-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
