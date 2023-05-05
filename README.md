@@ -1,6 +1,6 @@
 ### Hey There! I am Aniket. 👋
 ### I am a final Year Computer Science Undergraduate.
-### Tech skills: c++, Python, Django, MySQl, Javascript, HTML, CSS
+### Tech skills:   C++, Python, Django, MySQl, Javascript, HTML, CSS
 <!--
 **aniket-cse/aniket-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
