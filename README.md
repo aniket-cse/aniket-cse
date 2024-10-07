@@ -1,6 +1,6 @@
 ### Hey There! I am Aniket. 👋
 ### I am currently a Software Engineer  at ICS, Hyderabad
-### Tech skills:   C++, Python, JavaScript, Node.js, Django, MySQL, HTML, CSS.
+### Tech skills:   C++, Python, JavaScript, React.js, Node.js, Django, MySQL, HTML, CSS.
 <!--
 **aniket-cse/aniket-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
